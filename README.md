@@ -10,8 +10,14 @@ Inference mode — if model.pkl already exists, it loads the saved model and pip
 **Dataset**
 
 File: housing.csv
+
+
 Target: median_house_value
+
+
 Split: Stratified 80/20 train-test split based on income category
+
+
 
 **Pipeline**
 Step                                  Details
